@@ -69,7 +69,7 @@ def get_response_of_text(prompt):
 
   import time
   time.sleep(3)
-  return answer
+  return 'this is a sample text generated because you dont provide an OpenAI API key to generate response.'
 ```
 
 you can run the app using
