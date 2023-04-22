@@ -26,7 +26,7 @@ Install dependencies
 pip install -r requirements.txt
 ```
 
-Enter your OpenAI API key
+Enter your OpenAI API key within `app.py`
 
 ```bash
 ...
